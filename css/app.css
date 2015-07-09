@@ -1,0 +1,16 @@
+/* Default - all screens */
+html, body {
+    height: 100%;
+
+    background-color: #4bd2e2;
+    min-height: 100%;
+    overflow: hidden;
+}
+
+#getDate {
+    height: 50px;
+    margin: -20px -50px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
