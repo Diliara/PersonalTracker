@@ -1,2 +1,2 @@
 # Scheduler
-Scheduling hair washing
+Scheduling stuff
